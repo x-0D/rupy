@@ -20,7 +20,7 @@ zhpy X.X in darwin on top of Python 2.X.X
 哈囉, 世界
 ```
 
-таким образом, вы завершили свою первую китайскую программу!
+таким образом, вы завершили свою первую программу на rupy!
 
 ## Как пользоваться
 https://github.com/gasolin/rupy/blob/wiki/BasicUsage.md
