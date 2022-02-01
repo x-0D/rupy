@@ -1,13 +1,13 @@
-# zhpy
-周蟒, 用中文化 python 語法寫程式
+# rupy
+Пишите программы на русском синтаксисе python!
 
-## 安裝
+## Установка
 
-$　pip install -U zhpy
+$　pip install -U rupy
 
-## 使用
+## Использование
 
-安裝好後你可以立即試用周蟒中文 Python 直譯器. 試著在直譯器上輸入
+После установки интерпретатор python доступен сразу. Попробуйте запустить его сразу!
 
 ```
 印出 '哈囉, 世界'
@@ -23,10 +23,7 @@ zhpy X.X in darwin on top of Python 2.X.X
 這樣你就完成了你的第一個中文程式囉!
 
 ## 使用方法
-https://github.com/gasolin/zhpy/blob/wiki/BasicUsage.md
+https://github.com/gasolin/rupy/blob/wiki/BasicUsage.md
 
 ## 完整教學
-https://github.com/gasolin/zhpy/blob/wiki/ByteOfZhpy.md
-
-
-Migrated from code.google.com/p/zhpy
+https://github.com/gasolin/rupy/blob/wiki/ByteOfZhpy.md
